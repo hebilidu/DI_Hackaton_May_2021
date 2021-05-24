@@ -1,1 +1,37 @@
-/* lidu hackaton */
+/* lidu hackaton May 2021 */
+
+.top {
+    text-align: center;
+    text-transform: uppercase;
+    color: #4CAF50;
+}
+
+div {
+    margin: 0.3em;
+}
+
+button {
+    margin-left: 0.5em;
+    margin-right: 0.5em;
+}
+
+.q {
+    margin-top: 2em;
+    border-width: 3px;
+}
+
+button:hover {
+    color: red!important;
+    border-color: red!important;
+}
+
+.c:hover {
+    color: green!important;
+    border-color: green!important;
+}
+
+c:active {
+    color: green!important;
+    border-color: green!important;
+    border: 4px;
+}

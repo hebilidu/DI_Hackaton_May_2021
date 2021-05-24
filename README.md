@@ -21,3 +21,13 @@ So we end up with a web site with many quizzes dedicated to a theme (as opposed 
 
 
 As these steps are iterated over different source sites, the first step will always require additional work, while step two and three should require few modifications.
+
+### Tools that have been used for this project.
+I've tried to use a bit of everything: 
+- scrapy (as a Python module), 
+- virtual environment,
+- sqlite,
+- Python,
+- html,
+- css,
+- JavaScript
